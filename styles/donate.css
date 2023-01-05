@@ -35,10 +35,65 @@
     left: 640px;
     top: 450px;
     background-color: #FF5959;
+    border: 2px solid #FF5959;
     border-radius: 5px;
     color: #FFFFFF;
     font-weight: 600;
     font-size: 20px;
 }
-
+.donate-amount{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.amount-container{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.amount{
+    background-color: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    padding: 30px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.amount:hover{
+    color: red;
+    background-color: rgb(253, 226, 226);
+    border: 1px solid red;
+}
+.donate-title{
+    font-weight: 700;
+    font-size: 50px;
+    padding: 80px 0 40px 0;
+}
+.amount-descrition{
+    position: absolute;
+    left: 375px;
+    width: 700px;
+    color: #757575;
+    font-size: 20px;
+}
+.amount-input{
+    border: none;
+    border-bottom: 2px solid #cecece;
+    width: 700px;
+    text-align: center;
+    font-size: 20px;
+}
+.btn{
+    width: 160px;
+    height: 60px;
+    background-color: #FF5959;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
 
