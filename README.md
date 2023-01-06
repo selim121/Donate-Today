@@ -2,7 +2,7 @@
 
 All pages:
 
-![selim121](https://github.com/selim121/Donate-Today/tree/main/images/webview/1.png)
+![selim121](https://github.com/selim121/Donate-Today/tree/main/images/webview/1.png | width=100)
 
 ![selim121](https://github.com/selim121/Donate-Today/tree/main/images/webview/2.png)
 
