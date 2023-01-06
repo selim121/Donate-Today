@@ -94,6 +94,124 @@
     font-weight: 600;
     font-size: 20px;
     margin-top: 30px;
-    margin-bottom: 80px;
+    
 }
-
+.donate-plan{
+    text-align: center;
+}
+.plan-description{
+    position: absolute;
+    left: 375px;
+    width: 700px;
+    color: #757575;
+    font-size: 20px;
+    text-align: center;
+}
+.plan-container{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 100px 150px 100px 150px;
+}
+.plan-item{
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    padding: 30px;
+    text-align: left;
+}
+.item1-color{
+    background-color: rgba(79, 157, 166, 0.1);
+}
+.item2-color{
+    background-color: rgba(255, 89, 89, 0.1);
+}
+.item3-color{
+    background-color: rgb(254, 241, 217);
+}
+.icon{
+    padding: 30px 0;
+}
+.plun-sub-title{
+    font-weight: 700;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+.plan-sub-description{
+    font-weight: 400px;
+    font-size: 20px;
+}
+.contribute{
+    margin: 50px 100px;
+}
+.contribute-item{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.contribute-title{
+    font-weight: 700;
+    font-size: 50px;
+    padding: 30px 40px;
+}
+.contribute-description{
+    font-weight: 400;
+    font-size: 20px;
+    padding: 0 120px 0 40px;
+    text-align: left;
+    color: #757575;
+}
+.contribute-btn{
+    width: 220px;
+    height: 60px;
+    background-color: #FF5959;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 40px 0 0 40px;
+}
+.item2{
+    margin: 100px 40px;
+}
+.get-update{
+    text-align: center;
+}
+.update-title{
+    font-weight: 700;
+    font-size: 50px;
+    padding: 30px 40px;
+}
+.update-description{
+    font-weight: 400;
+    font-size: 20px;
+    padding: 0 350px;
+    color: #757575;
+}
+.email-input{
+    margin: 30px 300px;
+    padding: 80px 0;
+    background-color: rgb(254, 241, 217);
+    text-align: center;
+}
+.input-field{
+    background-color: #cecece;
+    padding: 10px 50px;
+    border: none;
+    font-size: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;  
+}
+.subscribe-btn{
+    width: 150px;
+    height: 42.5px;
+    background-color: #FF5959;
+    border: 2px solid #FF5959;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: -10px;
+}
